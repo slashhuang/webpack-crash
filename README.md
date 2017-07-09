@@ -72,3 +72,25 @@ a webpack overview for webpack developers
     })
 ```
 
+## 事件触发顺序
+
+1. before-run
+
+2. run
+
+3. before-compile
+
+4. compile [S]
+
+5. make [P]
+
+6. after-compile
+
+7. should-emit [S]
+
+8.2 true
+
+8.2.1 need-additional-pass
+8.2.2 additional-pass
+
+9. done

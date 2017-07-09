@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/slashhuang/webpack-crash#readme",
   "devDependencies": {
-    "webpack": "^3.1.0"
+    "webpack": "^3.1.0",
+    "webpack-dev-server": "^2.5.1"
   }
 }
