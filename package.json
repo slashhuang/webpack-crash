@@ -1,0 +1,22 @@
+{
+  "name": "webpack-crash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slashhuang/webpack-crash.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slashhuang/webpack-crash/issues"
+  },
+  "homepage": "https://github.com/slashhuang/webpack-crash#readme",
+  "devDependencies": {
+    "webpack": "^3.1.0"
+  }
+}
